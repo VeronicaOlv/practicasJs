@@ -24,3 +24,4 @@ function myPromiseDos(flag) {
   });
 }
 
+console.log(myPromise(1));
