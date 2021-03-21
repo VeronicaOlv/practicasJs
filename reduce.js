@@ -1,3 +1,4 @@
+//EJERCICIOS DE REDUCE -- SABADO
 //Reduce sin valor inicial 
 const array1= [1,2,3,4];
 
